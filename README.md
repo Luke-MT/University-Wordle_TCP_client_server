@@ -22,8 +22,7 @@ This project implements a networked version of Wordle where:
 ### Prerequisites
 
 - GCC compiler
-- UNIX-like operating system (Linux, macOS)
-- Basic understanding of terminal usage
+- UNIX-like operating system
 
 ### Installation
 
@@ -96,11 +95,3 @@ The implementation includes robust error handling for:
 - Connection issues
 - Invalid commands
 - Socket errors
-
-## Author
-
-Luca Arborio - 20038688
-
-## License
-
-[Your chosen license]
